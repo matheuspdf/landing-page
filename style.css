@@ -135,17 +135,17 @@ html {
 }
 
 .conteudo-principal .paineis .produtos1 {
-  background-image: url('../imagens/painel1.png');
+  background-image: url('imagens/painel1.png');
   max-height: 700px;
 }
 
 .conteudo-principal .paineis .produtos2 {
-  background-image: url('../imagens/painel2.png');
+  background-image: url('imagens/painel2.png');
   max-height: 700px;
 }
 
 .conteudo-principal .paineis .produtos3 {
-  background-image: url('../imagens/painel3.png');
+  background-image: url('imagens/painel3.png');
   max-height: 700px;
 }
 
@@ -160,7 +160,7 @@ html {
 }
 
 .conteudo-principal .paineis .seta {
-  background-image: url('../imagens/seta.png');
+  background-image: url('imagens/seta.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
